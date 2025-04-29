@@ -23,7 +23,7 @@ Enterprises rely on VPN services to securely connect remote employees. These con
    - Uses **UPSERT** to avoid duplicate entries.
    - Stores in a separate `vpn_sessions_results` table.
 
-![airflow dag overview](C:\Users\Deniz\Desktop\airflow dag overview.png)
+![airflow dag overview](https://github.com/user-attachments/assets/d6a8a90c-afe9-4501-9314-6db3d334fb5b)
 
 ---
 
