@@ -1,5 +1,7 @@
 ### **VPN User Activity ETL Pipeline**
 
+This project serves as a foundational framework, rather than a fully developed pipeline.
+
 ---
 
 ### **Use Case Overview**
